@@ -44,7 +44,10 @@ currently_learning:
   - Kubernetes Federation
   - AI in DevOps
 
----
+```
+
+## Snake Code
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/solankebhagwan48-leo/solankebhagwan48-leo/output/github-contribution-grid-snake-dark.svg" />
