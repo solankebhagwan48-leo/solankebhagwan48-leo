@@ -59,7 +59,7 @@
         .name {
           position: relative;
           font-size: 60px;
-          color: #00ccff;
+          color:#f7faf8;
           white-space: nowrap;
           overflow: hidden;
           border-right: 4px solid #00ccff;
